@@ -1,0 +1,2 @@
+from .efficientnet_v2_config import get_efficientnet_v2_structure
+from .efficientnet_v2 import get_efficientnet_v2
